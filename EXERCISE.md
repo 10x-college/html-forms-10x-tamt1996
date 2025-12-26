@@ -71,7 +71,7 @@ The rescue team needs to know the state of your ship.
 1. Create a `<fieldset>` with a `<legend>` titled **"Vessel Diagnostics"**
 
 2. **Hull Damage:** 
-   - Create a `<label>` element with the text "Hull Damage (%):"
+   - Create a `<label>` element with the text "Hull Damage )(%:"
    - Give it a `for` attribute with a unique identifier
    - Create an `<input>` element with `type` attribute set to "number"
    - Connect it to the label using a matching `id` attribute
@@ -160,7 +160,7 @@ Once your form is complete and working, add these final touches:
 - Your code should look like this:
   ```html
       <title>Jovian Drift SOS</title>
-      <link rel="stylesheet" href="./styles/styles.css">
+      c
   </head>
   ```
 
